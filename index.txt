@@ -1,2 +1,2 @@
-this is the index file of the new git hub.
+this is featur2 branch and its the new one
 this is made changed.
